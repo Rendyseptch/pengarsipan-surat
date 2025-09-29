@@ -34,7 +34,7 @@ Fitur keluar dari sistem (logout)
 <h1>Cara Menjalankan Aplikasi</h1>
 Clone Repository
 
-git clone [https://github.com/rendyseptch/aplikasi-arsip-surat.git]
+git clone (https://github.com/Rendyseptch/pengarsipan-surat.git)
 cd arsip-app
 
 -Install Dependensi
@@ -58,10 +58,10 @@ Buat database baru di phpMyAdmin (atau sejenisnya) sesuai nama yang Anda atur di
 Jalankan Server
 Buka dua terminal. Di terminal pertama, jalankan Vite. Di terminal kedua, jalankan server Laravel.
 
-# Terminal 1
+# Terminal 
 npm run dev
 
-# Terminal 2
+# Terminal 
 php artisan serve
 
 
