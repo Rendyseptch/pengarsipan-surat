@@ -91,9 +91,9 @@ Fungsionalitas Arsip
 
 Manajemen Kategori
 <p align="center">
-<img src="dokumentasi/Table Kategori.png" width="400" alt="Index Kategori"/>
-<img src="dokumentasi/create kategori.png" width="400" alt="Create Kategori"/>
-<img src="dokumentasi/kedit.JPG" width="400" alt="Lihat Kategori"/>
+<img src="dokumentasi/Table kategori.png" width="400" alt="Index Kategori"/>
+<img src="dokumentasi/create_Category.png" width="400" alt="Create Kategori"/>
+<img src="dokumentasi/edit_kategori.png" width="400" alt="Lihat Kategori"/>
 </p>
 
 Halaman Profil
